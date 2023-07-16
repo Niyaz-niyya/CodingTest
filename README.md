@@ -29,7 +29,7 @@ The program consists of a single class:
 
 
 
-## Odd Numbers Program (Modified)
+## Odd Numbers Program
 
 The program consists of a single class:
 
